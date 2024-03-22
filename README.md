@@ -51,3 +51,13 @@ So our first step will be to declare the path of the dataset in the drive and lo
 
 # CONCLUSION:
 For this project, we have consider all the dataset that are provided on the one source platform. However, the major analysis is performed over the combined dataset. The conclusion we can draw out is this analytic project provides valuable insights into the interplay between environmental conditions and LoRaWAN signal metrics. While some correlations are evident, careful consideration is required, especially in cases where data limitations result in NaN values. These findings contribute to the understanding of environmental influences on signal strength in LoRaWAN networks, offering avenues for further research and potential applications in both academic and industrial domains. The potential future work that can be implemented using the AI and ML field in terms of predicting models for crop fields, an anomaly in vineyards, climate impact assessment, and one can also using GPS coordinates can analyse the status of each device allocated in different region.
+
+# BIBLIOGRAPHY:
+1. The link to the dataset: https://github.com/emanueleg/lora-rssi/tree/master/vineyard-2021_data
+2. The link to the supporting paper: Correlation between weather and signal strength in LoRaWAN networks: An extensive dataset; https://www.sciencedirect.com/science/article/pii/S138912862100517X?via%3Dihub
+3. Heatmap link: https://bytescout.com/blog/plotting-geographical-heatmaps-using-python-folium-library.html
+4. Numpy: https://numpy.org/
+5. Pandas: https://pandas.pydata.org/
+6. For plots: https://matplotlib.org/
+
+This project is considered under the guidance of Prof. EMANUELE GOLDONI at Università degli Studi di Pavia.
